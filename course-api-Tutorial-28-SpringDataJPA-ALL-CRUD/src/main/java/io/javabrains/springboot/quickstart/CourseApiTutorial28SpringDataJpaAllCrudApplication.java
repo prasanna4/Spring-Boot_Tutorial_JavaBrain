@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
-@SpringBootApplication()
+@SpringBootApplication(scanBasePackages="io.javabrains.springboot.quickstart")
+
 public class CourseApiTutorial28SpringDataJpaAllCrudApplication {
 
 	public static void main(String[] args) {

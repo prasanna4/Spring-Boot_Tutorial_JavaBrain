@@ -1,4 +1,4 @@
-package io.javabrains.springboot.quickstart;
+package io.javabrains.springboot.quickstart.controller;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

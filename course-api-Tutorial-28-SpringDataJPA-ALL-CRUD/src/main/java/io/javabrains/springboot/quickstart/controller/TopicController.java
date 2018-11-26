@@ -1,4 +1,4 @@
-package io.javabrains.springboot.quickstart;
+package io.javabrains.springboot.quickstart.controller;
 
 import java.util.List;
 import java.util.Optional;
